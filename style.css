@@ -1,0 +1,279 @@
+.un {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 180px;
+    margin-right: 170px;
+}
+
+.ab {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.ab a {
+    text-decoration: none;
+    font-size: roboto sans-serif 17px;
+
+}
+
+.tx {
+    display: flex;
+    font-size: 17px;
+    font-family: roboto sans-serif;
+    color: #747474;
+    justify-content: space-between;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.tx a {
+    text-decoration: flex;
+
+}
+/*mon tete*/
+.ma {
+    text-align: center;
+    color: #00B39B;
+    font-family: roboto sans-serif
+}
+
+.cro {
+    margin-left: 670px;
+}
+
+.flex-global {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container {
+    margin-left: 20px;
+    background-color: #0fb39d;
+    border-radius: 10px;
+    padding: 20px;
+    width: 20em;
+    color: white;
+    height: 150px;
+
+}
+
+.flex-container2 {
+    margin-left: 20px;
+    background-color: hsl(240, 84%, 62%);
+    border-radius: 10px;
+    padding: 20px;
+    width: 20em;
+    color: white;
+    height: 150px;
+}
+
+.flex-container3 {
+    margin-left: 20px;
+    background-color: black;
+    border-radius: 10px;
+    padding: 1em;
+    width: 20em;
+    color: white;
+    height: 150px;
+}
+
+.global2 {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 170px;
+
+}
+
+.we {
+    font-size: 27px;
+    color: #00B39B;
+}
+
+.global3 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #c6e8e4;
+}
+
+
+.the {
+    font-size: 37px;
+    color: #00B39B;
+    margin-left: 170px;
+}
+
+.wewo {
+    margin-left: 0px;
+    color: #747474;
+    font-size: 15px;
+
+}
+
+.img3 {
+    margin-left: 55px;
+}
+
+.b1 {
+    margin-left: 20px;
+    border-radius: 8px;
+    padding-top: 4em;
+    width: 190px;
+    color: black;
+
+}
+
+.ali {
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    background: white;
+    padding-top: 50px;
+
+
+}
+
+.boxe {
+    display: flex;
+    margin-right: 170px;
+}
+
+
+
+.lea {
+    font-size: 22px;
+    color: aquamarine;
+
+}
+
+.aligf {
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    background: white;
+    margin-top: 30px;
+    padding-top: 50px;
+
+}
+
+.b2 {
+    margin-left: 20px;
+    background-color: #c6e8e4;
+    border-radius: 8px;
+    padding-top: 4em;
+    width: 190px;
+    color: black;
+
+}
+
+.ali2 {
+
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    background: white;
+    margin-top: 30px;
+    padding-top: 50px;
+}
+
+.ali2z {
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    background: white;
+    margin-top: 30px;
+    padding-top: 50px;
+}
+
+
+.lea {
+    font-size: 22px;
+    color: #00B39B;
+}
+
+
+.t2 {
+    font-size: 22px;
+    color: #00B39B;
+}
+
+.t3 {
+    font-size: 22px;
+    color: #00B39B;
+
+}
+
+.t4 {
+    font-size: 22px;
+    color: #00B39B;
+}
+
+.impthe {
+    font-size: 15px;
+    font-family: roboto sans-serif;
+    margin-left: 500px;
+    color: black;
+
+}
+
+.impthe .para {
+    font-size: 15px;
+    font-family: roboto sans-serif;
+    align-content: center;
+    color: #00B39B;
+
+}
+
+
+
+.gbox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding: 90px;
+    
+
+}
+
+.gbox img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 6px;
+}
+
+.btn {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 6px;
+    background-color: white;
+}
+
+button {
+    border-radius: 5px;
+    width: 10em;
+    background-color: rgb(84, 84, 244);
+    font-family: roboto sans-serif;
+    color: white;
+    height: 30px
+}
+
+.so{
+text-align: center;
+color: #747474;
+}
+.btn2{
+    text-align: center;
+    width: 300px;
+}
+.hassan{
+    text-align: center;
+
+}
+
+.foot2{
+   text-align: center;
+}
